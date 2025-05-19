@@ -1,12 +1,10 @@
 # Hank there 🥛 🌋 🥛
+Toni
 
-⛔ downtime ⛔
+⛔ downtime not allowed here ⛔
 
-#### Things to be improved on:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DebelToni&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebelToni&layout=compact&theme=dark)
 
-```
+```editor
  __   __     ______     ______     __   __   __     __    __    
 /\ "-.\ \   /\  ___\   /\  __ \   /\ \ / /  /\ \   /\ "-./  \   
 \ \ \-.  \  \ \  __\   \ \ \/\ \  \ \ \'/   \ \ \  \ \ \-./\ \  
